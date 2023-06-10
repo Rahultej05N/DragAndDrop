@@ -1,0 +1,32 @@
+.container {
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    width: 45%; 
+    background-color: grey;
+    box-shadow:3cm
+  }
+  
+  .item {
+    background-color: lightgray;
+    padding: 5px;
+    margin-bottom: 5px;
+  }
+  .success-message {
+    background-color: green;
+    color: white;
+    padding: 10px;
+    position: fixed;
+    top: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+  }  
+  #word
+  {
+    height: 75px;
+    width:500px;
+    font-size: xx-large;
+    background-color: thistle;
+  }
